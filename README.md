@@ -1,0 +1,2 @@
+# djangostock
+Treinamento python django
